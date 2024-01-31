@@ -1,6 +1,4 @@
 ---
-approvers:
-- chenopis
 title: Kubernetes 
 noedit: true
 cid: docsHome
